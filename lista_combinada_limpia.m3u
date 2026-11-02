@@ -1,1159 +1,1407 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Canal 1" tvg-logo="" group-title="",Canal 1
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/2
+#EXTINF:-1 tvg-id="" tvg-name="M+ Originales" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MORIG" group-title="PANDA",M+ Originales
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/2
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 1" tvg-logo="" group-title="",Canal 1
+#EXTINF:-1 tvg-id="" tvg-name="M+ Originales" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MORIG" group-title="PANDA",M+ Originales
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/2
 
-#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVE" group-title="",LA 1
+#EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVE" group-title="PANDA",LA 1
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5187
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 10" tvg-logo="" group-title="",Canal 10
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/15
+#EXTINF:-1 tvg-id="" tvg-name="M+ Estrenos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MV1" group-title="PANDA",M+ Estrenos
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/15
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 10" tvg-logo="" group-title="",Canal 10
+#EXTINF:-1 tvg-id="" tvg-name="M+ Documentales" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MDOC" group-title="PANDA",M+ Documentales
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/16
 
-#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="M+ Documentales" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MDOC" group-title="",M+ Documentales
+#EXTINF:-1 tvg-id="" tvg-name="M+ Accion" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPACCI" group-title="PANDA",M+ Accion
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5200
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 100" tvg-logo="" group-title="",Canal 100
+#EXTINF:-1 tvg-id="" tvg-name="TV3 Cat" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVC" group-title="PANDA",TV3 Cat
 http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/254
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 101" tvg-logo="" group-title="",Canal 101
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/255
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGA" group-title="PANDA",M+ LALIGA
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/255
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 102" tvg-logo="" group-title="",Canal 102
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/256
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZNLI" group-title="PANDA",DAZN LALIGA
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/256
 
-#EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/C4" group-title="",Cuatro
-http://57.129.40.7:4739/PANDA/clCJ3I/579
+#EXTINF:-1 tvg-id="" tvg-name="Cuatro" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/C4" group-title="PANDA",Cuatro
+http://57.129.40.7:4739/live/PANDA/clCJ3I/579
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 103" tvg-logo="" group-title="",Canal 103
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/257
+#EXTINF:-1 tvg-id="" tvg-name="VinTV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VinTV.png" group-title="PANDA",VinTV
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/257
 
-#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/T5" group-title="",Telecinco
-http://57.129.40.7:4739/PANDA/clCJ3I/580
+#EXTINF:-1 tvg-id="" tvg-name="Telecinco" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/T5" group-title="PANDA",Telecinco
+http://57.129.40.7:4739/live/PANDA/clCJ3I/580
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 104" tvg-logo="" group-title="",Canal 104
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/258
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MotoGP" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZMOT" group-title="PANDA",DAZN MotoGP
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/258
 
-#EXTINF:-1 tvg-id="Movistar Plus" tvg-name="Movistar Plus" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS" group-title="",Movistar Plus
-http://57.129.40.7:4739/PANDA/clCJ3I/582
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS" group-title="PANDA",Movistar Plus
+http://57.129.40.7:4739/live/PANDA/clCJ3I/582
 
-#EXTINF:-1 tvg-id="M+ Vamos" tvg-name="M+ Vamos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VAMOSD" group-title="",M+ Vamos
-http://57.129.40.7:4739/PANDA/clCJ3I/583
+#EXTINF:-1 tvg-id="" tvg-name="M+ Vamos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VAMOSD" group-title="PANDA",M+ Vamos
+http://57.129.40.7:4739/live/PANDA/clCJ3I/583
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 106" tvg-logo="" group-title="",Canal 106
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/260
+#EXTINF:-1 tvg-id="" tvg-name="Aragón TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARAGTV" group-title="PANDA",Aragón TV
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/260
 
-#EXTINF:-1 tvg-id="M+ Estrenos" tvg-name="M+ Estrenos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MV1" group-title="",M+ Estrenos
-http://57.129.40.7:4739/PANDA/clCJ3I/585
+#EXTINF:-1 tvg-id="" tvg-name="M+ Estrenos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MV1" group-title="PANDA",M+ Estrenos
+http://57.129.40.7:4739/live/PANDA/clCJ3I/585
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 107" tvg-logo="" group-title="",Canal 107
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/261
+#EXTINF:-1 tvg-id="" tvg-name="M+ Baloncesto" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALCT" group-title="PANDA",M+ Baloncesto
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/261
 
-#EXTINF:-1 tvg-id="M+ Hits" tvg-name="M+ Hits" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MHITS" group-title="",M+ Hits
-http://57.129.40.7:4739/PANDA/clCJ3I/586
+#EXTINF:-1 tvg-id="" tvg-name="M+ Hits" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MHITS" group-title="PANDA",M+ Hits
+http://57.129.40.7:4739/live/PANDA/clCJ3I/586
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 108" tvg-logo="" group-title="",Canal 108
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/262
+#EXTINF:-1 tvg-id="" tvg-name="M+ Baloncesto 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC2" group-title="PANDA",M+ Baloncesto 2
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/262
 
-#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ Originales" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MORIG" group-title="",M+ Originales
-http://57.129.40.7:4739/PANDA/clCJ3I/587
+#EXTINF:-1 tvg-id="" tvg-name="M+ Originales" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MORIG" group-title="PANDA",M+ Originales
+http://57.129.40.7:4739/live/PANDA/clCJ3I/587
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 109" tvg-logo="" group-title="",Canal 109
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/263
+#EXTINF:-1 tvg-id="" tvg-name="Primera Federación" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MCOPA" group-title="PANDA",Primera Federación
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/263
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-logo="" group-title="",Canal 11
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/16
+#EXTINF:-1 tvg-id="" tvg-name="M+ Accion" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPACCI" group-title="PANDA",M+ Accion
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/16
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-logo="" group-title="",Canal 11
+#EXTINF:-1 tvg-id="" tvg-name="M+ Comedia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPCOME" group-title="PANDA",M+ Comedia
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/17
 
-#EXTINF:-1 tvg-id="M+ Orgullo" tvg-name="M+ Orgullo" tvg-logo="" group-title="",M+ Orgullo
+#EXTINF:-1 tvg-id="" tvg-name="M+ Romance" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MROMA" group-title="PANDA",M+ Romance
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5201
 
-#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-name="M+ Vacaciones" tvg-logo="" group-title="",M+ Vacaciones
-http://57.129.40.7:4739/PANDA/clCJ3I/588
+#EXTINF:-1 tvg-id="" tvg-name="M+ Terror" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TERROR" group-title="PANDA",M+ Terror
+http://57.129.40.7:4739/live/PANDA/clCJ3I/588
 
-#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="M+ Documentales" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MDOC" group-title="",M+ Documentales
-http://57.129.40.7:4739/PANDA/clCJ3I/589
+#EXTINF:-1 tvg-id="" tvg-name="M+ Documentales" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MDOC" group-title="PANDA",M+ Documentales
+http://57.129.40.7:4739/live/PANDA/clCJ3I/589
 
-#EXTINF:-1 tvg-id="M+ Orgullo" tvg-name="M+ Orgullo" tvg-logo="" group-title="",M+ Orgullo
-http://57.129.40.7:4739/PANDA/clCJ3I/590
+#EXTINF:-1 tvg-id="" tvg-name="M+ Romance" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MROMA" group-title="PANDA",M+ Romance
+http://57.129.40.7:4739/live/PANDA/clCJ3I/590
 
-#EXTINF:-1 tvg-id="M+ Clásicos" tvg-name="M+ Clásicos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MCLAS" group-title="",M+ Clásicos
-http://57.129.40.7:4739/PANDA/clCJ3I/591
+#EXTINF:-1 tvg-id="" tvg-name="M+ Clasicos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MCLAS" group-title="PANDA",M+ Clasicos
+http://57.129.40.7:4739/live/PANDA/clCJ3I/591
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 114" tvg-logo="" group-title="",Canal 114
-http://57.129.40.7:4739/PANDA/clCJ3I/592
+#EXTINF:-1 tvg-id="" tvg-name="M+ Accion" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPACCI" group-title="PANDA",M+ Accion
+http://57.129.40.7:4739/live/PANDA/clCJ3I/592
 
-#EXTINF:-1 tvg-id="M+ Comedia" tvg-name="M+ Comedia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPCOME" group-title="",M+ Comedia
-http://57.129.40.7:4739/PANDA/clCJ3I/593
+#EXTINF:-1 tvg-id="" tvg-name="M+ Comedia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPCOME" group-title="PANDA",M+ Comedia
+http://57.129.40.7:4739/live/PANDA/clCJ3I/593
 
-#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="HBO Max Avances" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MAXAVA" group-title="",HBO Max Avances
-http://57.129.40.7:4739/PANDA/clCJ3I/597
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Avances" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MAXAVA" group-title="PANDA",HBO Max Avances
+http://57.129.40.7:4739/live/PANDA/clCJ3I/597
 
-#EXTINF:-1 tvg-id="SkyShowtime 1" tvg-name="SkyShowtime 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SKYSHO" group-title="",SkyShowtime 1
-http://57.129.40.7:4739/PANDA/clCJ3I/598
+#EXTINF:-1 tvg-id="" tvg-name="SkyShowtime" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SKYSHO" group-title="PANDA",SkyShowtime
+http://57.129.40.7:4739/live/PANDA/clCJ3I/598
 
-#EXTINF:-1 tvg-id="BBC Series" tvg-name="BBC Series" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBDRA" group-title="",BBC Series
-http://57.129.40.7:4739/PANDA/clCJ3I/603
+#EXTINF:-1 tvg-id="" tvg-name="BBC Series" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBDRA" group-title="PANDA",BBC Series
+http://57.129.40.7:4739/live/PANDA/clCJ3I/603
 
-#EXTINF:-1 tvg-id="BBC Top Gear" tvg-name="BBC Top Gear" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBGEA" group-title="",BBC Top Gear
-http://57.129.40.7:4739/PANDA/clCJ3I/604
+#EXTINF:-1 tvg-id="" tvg-name="BBC Top Gear" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBGEA" group-title="PANDA",BBC Top Gear
+http://57.129.40.7:4739/live/PANDA/clCJ3I/604
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 12" tvg-logo="" group-title="",Canal 12
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/17
+#EXTINF:-1 tvg-id="" tvg-name="M+ Comedia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPCOME" group-title="PANDA",M+ Comedia
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/17
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 12" tvg-logo="" group-title="",Canal 12
+#EXTINF:-1 tvg-id="" tvg-name="M+ Drama" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPCOLE" group-title="PANDA",M+ Drama
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/18
 
-#EXTINF:-1 tvg-id="M+ Clásicos" tvg-name="M+ Clásicos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MCLAS" group-title="",M+ Clásicos
+#EXTINF:-1 tvg-id="" tvg-name="M+ Clásicos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MCLAS" group-title="PANDA",M+ Clásicos
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5202
 
-#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BEMAD" group-title="",BE MAD
-http://57.129.40.7:4739/PANDA/clCJ3I/606
+#EXTINF:-1 tvg-id="" tvg-name="Be Mad" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BEMAD" group-title="PANDA",Be Mad
+http://57.129.40.7:4739/live/PANDA/clCJ3I/606
 
-#EXTINF:-1 tvg-id="STAR Channel" tvg-name="STAR Channel" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FOXGE" group-title="",STAR Channel
-http://57.129.40.7:4739/PANDA/clCJ3I/607
+#EXTINF:-1 tvg-id="" tvg-name="STAR Channel" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FOXGE" group-title="PANDA",STAR Channel
+http://57.129.40.7:4739/live/PANDA/clCJ3I/607
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/AXN" group-title="",AXN
-http://57.129.40.7:4739/PANDA/clCJ3I/608
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/AXN" group-title="PANDA",AXN
+http://57.129.40.7:4739/live/PANDA/clCJ3I/608
 
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TNT" group-title="",Warner TV
-http://57.129.40.7:4739/PANDA/clCJ3I/609
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TNT" group-title="PANDA",Warner TV
+http://57.129.40.7:4739/live/PANDA/clCJ3I/609
 
-#EXTINF:-1 tvg-id="Calle 13" tvg-name="Calle 13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CL13" group-title="",Calle 13
-http://57.129.40.7:4739/PANDA/clCJ3I/611
+#EXTINF:-1 tvg-id="" tvg-name="Calle 13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CL13" group-title="PANDA",Calle 13
+http://57.129.40.7:4739/live/PANDA/clCJ3I/611
 
-#EXTINF:-1 tvg-id="COSMO" tvg-name="COSMO" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/COSMO" group-title="",COSMO
-http://57.129.40.7:4739/PANDA/clCJ3I/612
+#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/COSMO" group-title="PANDA",COSMO
+http://57.129.40.7:4739/live/PANDA/clCJ3I/612
 
-#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/13TV" group-title="",TRECE
-http://57.129.40.7:4739/PANDA/clCJ3I/615
+#EXTINF:-1 tvg-id="" tvg-name="TR3CE" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/13TV" group-title="PANDA",TR3CE
+http://57.129.40.7:4739/live/PANDA/clCJ3I/615
 
-#EXTINF:-1 tvg-id="Atreseries" tvg-name="Atreseries" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ATRESS" group-title="",Atreseries
-http://57.129.40.7:4739/PANDA/clCJ3I/619
+#EXTINF:-1 tvg-id="" tvg-name="Atreseries" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ATRESS" group-title="PANDA",Atreseries
+http://57.129.40.7:4739/live/PANDA/clCJ3I/619
 
-#EXTINF:-1 tvg-id="M+ Vamos 2" tvg-name="M+ Vamos 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VAM2SD" group-title="",M+ Vamos 2
-http://57.129.40.7:4739/PANDA/clCJ3I/620
+#EXTINF:-1 tvg-id="" tvg-name="M+ Vamos 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VAM2SD" group-title="PANDA",M+ Vamos 2
+http://57.129.40.7:4739/live/PANDA/clCJ3I/620
 
-#EXTINF:-1 tvg-id="M+ Vamos 3" tvg-name="M+ Vamos 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MELLAV" group-title="",M+ Vamos 3
-http://57.129.40.7:4739/PANDA/clCJ3I/621
+#EXTINF:-1 tvg-id="" tvg-name="M+ Vamos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VAMOSD" group-title="PANDA",M+ Vamos
+http://57.129.40.7:4739/live/PANDA/clCJ3I/621
 
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LALIGA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZNLI" group-title="",DAZN LALIGA
-http://57.129.40.7:4739/PANDA/clCJ3I/41
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZNLI" group-title="PANDA",DAZN LALIGA
+http://57.129.40.7:4739/live/PANDA/clCJ3I/41
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="" group-title="",Canal 13
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/18
+#EXTINF:-1 tvg-id="" tvg-name="M+ Drama" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPCOLE" group-title="PANDA",M+ Drama
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/18
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="" group-title="",Canal 13
+#EXTINF:-1 tvg-id="" tvg-name="M+ Clásicos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MCLAS" group-title="PANDA",M+ Clásicos
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/20
 
-#EXTINF:-1 tvg-id="M+ Acción" tvg-name="M+ Acción" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPACCI" group-title="",M+ Acción
+#EXTINF:-1 tvg-id="" tvg-name="M+ Accion" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPACCI" group-title="PANDA",M+ Accion
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5203
 
-#EXTINF:-1 tvg-id="M+ LALIGA" tvg-name="M+ LALIGA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGA" group-title="",M+ LALIGA
-http://57.129.40.7:4739/PANDA/clCJ3I/623
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGA" group-title="PANDA",M+ LALIGA
+http://57.129.40.7:4739/live/PANDA/clCJ3I/623
 
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LALIGA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZNLI" group-title="",DAZN LALIGA
-http://57.129.40.7:4739/PANDA/clCJ3I/624
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZNLI" group-title="PANDA",DAZN LALIGA
+http://57.129.40.7:4739/live/PANDA/clCJ3I/624
 
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS" group-title="",LALIGA TV HYPERMOTION
-http://57.129.40.7:4739/PANDA/clCJ3I/625
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS" group-title="PANDA",LaLiga TV Hypermotion
+http://57.129.40.7:4739/live/PANDA/clCJ3I/625
 
-#EXTINF:-1 tvg-id="M+ LALIGA 2" tvg-name="M+ LALIGA 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG1" group-title="",M+ LALIGA 2
-http://57.129.40.7:4739/PANDA/clCJ3I/626
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG1" group-title="PANDA",M+ LALIGA 2
+http://57.129.40.7:4739/live/PANDA/clCJ3I/626
 
-#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DAZN LALIGA 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZNL2" group-title="",DAZN LALIGA 2
-http://57.129.40.7:4739/PANDA/clCJ3I/627
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZNL2" group-title="PANDA",DAZN LALIGA 2
+http://57.129.40.7:4739/live/PANDA/clCJ3I/627
 
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS2" group-title="",LALIGA TV HYPERMOTION 2
-http://57.129.40.7:4739/PANDA/clCJ3I/628
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS2" group-title="PANDA",LaLiga TV Hypermotion 2
+http://57.129.40.7:4739/live/PANDA/clCJ3I/628
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAPIO" group-title="",M+ Liga de Campeones
-http://57.129.40.7:4739/PANDA/clCJ3I/629
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAPIO" group-title="PANDA",M+ Liga de Campeones
+http://57.129.40.7:4739/live/PANDA/clCJ3I/629
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP1" group-title="",M+ Liga de Campeones 2
-http://57.129.40.7:4739/PANDA/clCJ3I/630
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP1" group-title="PANDA",M+ Liga de Campeones 2
+http://57.129.40.7:4739/live/PANDA/clCJ3I/630
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP2" group-title="",M+ Liga de Campeones 3
-http://57.129.40.7:4739/PANDA/clCJ3I/631
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP2" group-title="PANDA",M+ Liga de Campeones 3
+http://57.129.40.7:4739/live/PANDA/clCJ3I/631
 
-#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="M+ Deportes" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPDEP" group-title="",M+ Deportes
-http://57.129.40.7:4739/PANDA/clCJ3I/632
+#EXTINF:-1 tvg-id="" tvg-name="M+ Deportes" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPDEP" group-title="PANDA",M+ Deportes
+http://57.129.40.7:4739/live/PANDA/clCJ3I/632
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 14" tvg-logo="" group-title="",Canal 14
-http://57.129.40.7:4739/PANDA/clCJ3I/63
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/63
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 14" tvg-logo="" group-title="",Canal 14
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/19
+#EXTINF:-1 tvg-id="" tvg-name="M+ Cine Español" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCESP" group-title="PANDA",M+ Cine Español
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/19
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 14" tvg-logo="" group-title="",Canal 14
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS" group-title="PANDA",Movistar Plus
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/21
 
-#EXTINF:-1 tvg-id="M+ Comedia" tvg-name="M+ Comedia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPCOME" group-title="",M+ Comedia
+#EXTINF:-1 tvg-id="" tvg-name="M+ Comedia" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPCOME" group-title="PANDA",M+ Comedia
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5204
 
-#EXTINF:-1 tvg-id="M+ Deportes 2" tvg-name="M+ Deportes 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARTHUR" group-title="",M+ Deportes 2
-http://57.129.40.7:4739/PANDA/clCJ3I/633
+#EXTINF:-1 tvg-id="" tvg-name="M+ Deportes 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARTHUR" group-title="PANDA",M+ Deportes 2
+http://57.129.40.7:4739/live/PANDA/clCJ3I/633
 
-#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP2" group-title="",M+ Deportes 3
-http://57.129.40.7:4739/PANDA/clCJ3I/634
+#EXTINF:-1 tvg-id="" tvg-name="M+ Deportes 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP2" group-title="PANDA",M+ Deportes 3
+http://57.129.40.7:4739/live/PANDA/clCJ3I/634
 
-#EXTINF:-1 tvg-id="M+ Baloncesto" tvg-name="M+ Baloncesto" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALCT" group-title="",M+ Baloncesto
-http://57.129.40.7:4739/PANDA/clCJ3I/635
+#EXTINF:-1 tvg-id="" tvg-name="M+ Baloncesto" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALCT" group-title="PANDA",M+ Baloncesto
+http://57.129.40.7:4739/live/PANDA/clCJ3I/635
 
-#EXTINF:-1 tvg-id="M+ Baloncesto 2" tvg-name="M+ Baloncesto 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC2" group-title="",M+ Baloncesto 2
-http://57.129.40.7:4739/PANDA/clCJ3I/636
+#EXTINF:-1 tvg-id="" tvg-name="M+ Baloncesto 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC2" group-title="PANDA",M+ Baloncesto 2
+http://57.129.40.7:4739/live/PANDA/clCJ3I/636
 
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MVF1" group-title="",DAZN F1
-http://57.129.40.7:4739/PANDA/clCJ3I/639
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MVF1" group-title="PANDA",DAZN F1
+http://57.129.40.7:4739/live/PANDA/clCJ3I/639
 
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZMOT" group-title="",DAZN MotoGP
-http://57.129.40.7:4739/PANDA/clCJ3I/640
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MotoGP" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZMOT" group-title="PANDA",DAZN MotoGP
+http://57.129.40.7:4739/live/PANDA/clCJ3I/640
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/M1SD" group-title="",DAZN 1
-http://57.129.40.7:4739/PANDA/clCJ3I/641
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/M1SD" group-title="PANDA",DAZN 1
+http://57.129.40.7:4739/live/PANDA/clCJ3I/641
 
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/M2SD" group-title="",DAZN 2
-http://57.129.40.7:4739/PANDA/clCJ3I/642
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/M2SD" group-title="PANDA",DAZN 2
+http://57.129.40.7:4739/live/PANDA/clCJ3I/642
 
-#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN Baloncesto" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZBA" group-title="",DAZN Baloncesto
-http://57.129.40.7:4739/PANDA/clCJ3I/643
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Baloncesto" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZBA" group-title="PANDA",DAZN Baloncesto
+http://57.129.40.7:4739/live/PANDA/clCJ3I/643
 
-#EXTINF:-1 tvg-id="DAZN Baloncesto 2" tvg-name="DAZN Baloncesto 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZB2" group-title="",DAZN Baloncesto 2
-http://57.129.40.7:4739/PANDA/clCJ3I/644
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Baloncesto 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZB2" group-title="PANDA",DAZN Baloncesto 2
+http://57.129.40.7:4739/live/PANDA/clCJ3I/644
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 15" tvg-logo="" group-title="",Canal 15
-http://57.129.40.7:4739/PANDA/clCJ3I/64
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/64
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 15" tvg-logo="" group-title="",Canal 15
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/20
+#EXTINF:-1 tvg-id="" tvg-name="M+ Clásicos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MCLAS" group-title="PANDA",M+ Clásicos
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/20
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 15" tvg-logo="" group-title="",Canal 15
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/M2SD" group-title="PANDA",DAZN 2
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/22
 
-#EXTINF:-1 tvg-id="M+ Drama" tvg-name="M+ Drama" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPCOLE" group-title="",M+ Drama
+#EXTINF:-1 tvg-id="" tvg-name="M+ Drama" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPCOLE" group-title="PANDA",m+ Drama
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5205
 
-#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="Caza y Pesca" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CAZPES" group-title="",Caza y Pesca
-http://57.129.40.7:4739/PANDA/clCJ3I/651
+#EXTINF:-1 tvg-id="" tvg-name="Caza y Pesca" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CAZPES" group-title="PANDA",Caza y Pesca
+http://57.129.40.7:4739/live/PANDA/clCJ3I/651
 
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGEO" group-title="",National Geographic
-http://57.129.40.7:4739/PANDA/clCJ3I/652
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGEO" group-title="PANDA",National Geographic
+http://57.129.40.7:4739/live/PANDA/clCJ3I/652
 
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGW" group-title="",Nat Geo Wild
-http://57.129.40.7:4739/PANDA/clCJ3I/653
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGW" group-title="PANDA",Nat Geo Wild
+http://57.129.40.7:4739/live/PANDA/clCJ3I/653
 
-#EXTINF:-1 tvg-id="BBC History" tvg-name="BBC History" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBHIS" group-title="",BBC History
-http://57.129.40.7:4739/PANDA/clCJ3I/654
+#EXTINF:-1 tvg-id="" tvg-name="BBC History" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBHIS" group-title="PANDA",BBC History
+http://57.129.40.7:4739/live/PANDA/clCJ3I/654
 
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCR" group-title="",Discovery
-http://57.129.40.7:4739/PANDA/clCJ3I/655
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCR" group-title="PANDA",Discovery
+http://57.129.40.7:4739/live/PANDA/clCJ3I/655
 
-#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBCEAR" group-title="",BBC Earth
-http://57.129.40.7:4739/PANDA/clCJ3I/656
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBCEAR" group-title="PANDA",BBC Earth
+http://57.129.40.7:4739/live/PANDA/clCJ3I/656
 
-#EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC Food" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBFOO" group-title="",BBC Food
-http://57.129.40.7:4739/PANDA/clCJ3I/658
+#EXTINF:-1 tvg-id="" tvg-name="BBC Food" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBFOO" group-title="PANDA",BBC Food
+http://57.129.40.7:4739/live/PANDA/clCJ3I/658
 
-#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBCLIF" group-title="",BBC Lifestyle
-http://57.129.40.7:4739/PANDA/clCJ3I/659
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBCLIF" group-title="PANDA",BBC Lifestyle
+http://57.129.40.7:4739/live/PANDA/clCJ3I/659
 
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NICKJR" group-title="",NICK JR
-http://57.129.40.7:4739/PANDA/clCJ3I/667
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NICKJR" group-title="PANDA",NICK JR
+http://57.129.40.7:4739/live/PANDA/clCJ3I/667
 
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NICK" group-title="",Nickelodeon
-http://57.129.40.7:4739/PANDA/clCJ3I/668
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NICK" group-title="PANDA",Nickelodeon
+http://57.129.40.7:4739/live/PANDA/clCJ3I/668
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 16" tvg-logo="" group-title="",Canal 16
-http://57.129.40.7:4739/PANDA/clCJ3I/70
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/70
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 16" tvg-logo="" group-title="",Canal 16
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/21
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS" group-title="PANDA",Movistar Plus
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/21
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 16" tvg-logo="" group-title="",Canal 16
+#EXTINF:-1 tvg-id="" tvg-name="Canal Hollywood" tvg-logo="" group-title="PANDA",Canal Hollywood
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/23
 
-#EXTINF:-1 tvg-id="M+ Indie" tvg-name="M+ Indie" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MINDI" group-title="",M+ Indie
+#EXTINF:-1 tvg-id="" tvg-name="M+ Indie" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MINDI" group-title="PANDA",M+ Indie
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5206
 
-#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DWSP" group-title="",Dreamworks
-http://57.129.40.7:4739/PANDA/clCJ3I/669
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DWSP" group-title="PANDA",Dreamworks
+http://57.129.40.7:4739/live/PANDA/clCJ3I/669
 
-#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BOING" group-title="",Boing
-http://57.129.40.7:4739/PANDA/clCJ3I/670
+#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BOING" group-title="PANDA",Boing
+http://57.129.40.7:4739/live/PANDA/clCJ3I/670
 
-#EXTINF:-1 tvg-id="Aragón TV Int" tvg-name="Aragón TV Int" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARAGON" group-title="",Aragón TV Int
-http://57.129.40.7:4739/PANDA/clCJ3I/694
+#EXTINF:-1 tvg-id="Aragón TV Int" tvg-name="Aragón TV Int" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARAGON" group-title="PANDA",Aragón TV Int
+http://57.129.40.7:4739/live/PANDA/clCJ3I/694
 
-#EXTINF:-1 tvg-id="Telemadrid Int." tvg-name="Telemadrid Int." tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TELMIN" group-title="",Telemadrid Int.
-http://57.129.40.7:4739/PANDA/clCJ3I/695
+#EXTINF:-1 tvg-id="Telemadrid Int." tvg-name="Telemadrid Int." tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TELMIN" group-title="PANDA",Telemadrid Int.
+http://57.129.40.7:4739/live/PANDA/clCJ3I/695
 
-#EXTINF:-1 tvg-id="M+ LALIGA 3" tvg-name="M+ LALIGA 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG2" group-title="",M+ LALIGA 3
-http://57.129.40.7:4739/PANDA/clCJ3I/698
+#EXTINF:-1 tvg-id="M+ LALIGA 3" tvg-name="M+ LALIGA 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG2" group-title="PANDA",M+ LALIGA 3
+http://57.129.40.7:4739/live/PANDA/clCJ3I/698
 
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-name="LALIGA TV HYPERMOTION 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS3" group-title="",LALIGA TV HYPERMOTION 3
-http://57.129.40.7:4739/PANDA/clCJ3I/699
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-name="LALIGA TV HYPERMOTION 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS3" group-title="PANDA",LALIGA TV HYPERMOTION 3
+http://57.129.40.7:4739/live/PANDA/clCJ3I/699
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP4" group-title="",M+ Liga de Campeones 5
-http://57.129.40.7:4739/PANDA/clCJ3I/701
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP4" group-title="PANDA",M+ Liga de Campeones 5
+http://57.129.40.7:4739/live/PANDA/clCJ3I/701
 
-#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP3" group-title="",M+ Deportes 4
-http://57.129.40.7:4739/PANDA/clCJ3I/702
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP3" group-title="PANDA",M+ Deportes 4
+http://57.129.40.7:4739/live/PANDA/clCJ3I/702
 
-#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP11" group-title="",M+ Deportes 5
-http://57.129.40.7:4739/PANDA/clCJ3I/703
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP11" group-title="PANDA",M+ Deportes 5
+http://57.129.40.7:4739/live/PANDA/clCJ3I/703
 
-#EXTINF:-1 tvg-id="M+ Baloncesto 3" tvg-name="M+ Baloncesto 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC3" group-title="",M+ Baloncesto 3
-http://57.129.40.7:4739/PANDA/clCJ3I/705
+#EXTINF:-1 tvg-id="M+ Baloncesto 3" tvg-name="M+ Baloncesto 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC3" group-title="PANDA",M+ Baloncesto 3
+http://57.129.40.7:4739/live/PANDA/clCJ3I/705
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 17" tvg-logo="" group-title="",Canal 17
-http://57.129.40.7:4739/PANDA/clCJ3I/78
+#EXTINF:-1 tvg-id="" tvg-name="Sin Señal" tvg-logo="" group-title="PANDA",Sin Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/78
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 17" tvg-logo="" group-title="",Canal 17
+#EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" group-title="PANDA",XTRM
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/24
 
-#EXTINF:-1 tvg-id="SkyShowtime 1" tvg-name="SkyShowtime 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SKYSHO" group-title="",SkyShowtime 1
+#EXTINF:-1 tvg-id="SkyShowtime 1" tvg-name="SkyShowtime 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SKYSHO" group-title="PANDA",SkyShowtime 1
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5209
 
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ Cine Español" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCESP" group-title="",M+ Cine Español
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ Cine Español" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCESP" group-title="PANDA",M+ Cine Español
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5207
 
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZN4" group-title="",DAZN 4
-http://57.129.40.7:4739/PANDA/clCJ3I/709
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZN4" group-title="PANDA",DAZN 4
+http://57.129.40.7:4739/live/PANDA/clCJ3I/709
 
-#EXTINF:-1 tvg-id="M Liga de Campeones" tvg-name="M Liga de Campeones" tvg-logo="" group-title="",M Liga de Campeones
-http://57.129.40.7:4739/PANDA/clCJ3I/714
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="" group-title="PANDA",M+ Liga de Campeones
+http://57.129.40.7:4739/live/PANDA/clCJ3I/714
 
-#EXTINF:-1 tvg-id="M Liga de Campeones 2" tvg-name="M Liga de Campeones 2" tvg-logo="" group-title="",M Liga de Campeones 2
-http://57.129.40.7:4739/PANDA/clCJ3I/715
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M+ Liga de Campeones 2" tvg-logo="" group-title="PANDA",M+ Liga de Campeones 2
+http://57.129.40.7:4739/live/PANDA/clCJ3I/715
 
-#EXTINF:-1 tvg-id="M Liga de Campeones 3" tvg-name="M Liga de Campeones 3" tvg-logo="" group-title="",M Liga de Campeones 3
-http://57.129.40.7:4739/PANDA/clCJ3I/716
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M+ Liga de Campeones 3" tvg-logo="" group-title="PANDA",M+ Liga de Campeones 3
+http://57.129.40.7:4739/live/PANDA/clCJ3I/716
 
-#EXTINF:-1 tvg-id="M Liga de Campeones 5" tvg-name="M Liga de Campeones 5" tvg-logo="" group-title="",M Liga de Campeones 5
-http://57.129.40.7:4739/PANDA/clCJ3I/717
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="" group-title="PANDA",M+ Liga de Campeones 5
+http://57.129.40.7:4739/live/PANDA/clCJ3I/717
 
-#EXTINF:-1 tvg-id="M Liga de Campeones 6" tvg-name="M Liga de Campeones 6" tvg-logo="" group-title="",M Liga de Campeones 6
-http://57.129.40.7:4739/PANDA/clCJ3I/718
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M+ Liga de Campeones 6" tvg-logo="" group-title="PANDA",M+ Liga de Campeones 6
+http://57.129.40.7:4739/live/PANDA/clCJ3I/718
 
-#EXTINF:-1 tvg-id="M Liga de Campeones 7" tvg-name="M Liga de Campeones 7" tvg-logo="" group-title="",M Liga de Campeones 7
-http://57.129.40.7:4739/PANDA/clCJ3I/719
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="" group-title="PANDA",M+ Liga de Campeones 7
+http://57.129.40.7:4739/live/PANDA/clCJ3I/719
 
-#EXTINF:-1 tvg-id="M Liga de Campeones 8" tvg-name="M Liga de Campeones 8" tvg-logo="" group-title="",M Liga de Campeones 8
-http://57.129.40.7:4739/PANDA/clCJ3I/720
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M+ Liga de Campeones 8" tvg-logo="" group-title="PANDA",M+ Liga de Campeones 8
+http://57.129.40.7:4739/live/PANDA/clCJ3I/720
 
-#EXTINF:-1 tvg-id="M Liga de Campeones 9" tvg-name="M Liga de Campeones 9" tvg-logo="" group-title="",M Liga de Campeones 9
-http://57.129.40.7:4739/PANDA/clCJ3I/721
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="M+ Liga de Campeones 9" tvg-logo="" group-title="PANDA",M+ Liga de Campeones 9
+http://57.129.40.7:4739/live/PANDA/clCJ3I/721
 
-#EXTINF:-1 tvg-id="M Liga de Campeones 10" tvg-name="M Liga de Campeones 10" tvg-logo="" group-title="",M Liga de Campeones 10
-http://57.129.40.7:4739/PANDA/clCJ3I/722
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-name="M+ Liga de Campeones 10" tvg-logo="" group-title="PANDA",M+ Liga de Campeones 10
+http://57.129.40.7:4739/live/PANDA/clCJ3I/722
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 18" tvg-logo="" group-title="",Canal 18
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/23
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" group-title="PANDA",Hollywood
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 18" tvg-logo="" group-title="",Canal 18
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TNT" group-title="PANDA",Warner TV
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/25
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 18" tvg-logo="" group-title="",Canal 18
+#EXTINF:-1 tvg-id="Canal FlixOlé 1" tvg-name="Canal FlixOlé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FLIX1" group-title="PANDA",Canal FlixOlé 1
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5210
 
-#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="HBO Max Avances" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MAXAVA" group-title="",HBO Max Avances
+#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="HBO Max Avances" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MAXAVA" group-title="PANDA",HBO Max Avances
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5208
 
-#EXTINF:-1 tvg-id="M Liga de Campeones 13" tvg-name="M Liga de Campeones 13" tvg-logo="" group-title="",M Liga de Campeones 13
-http://57.129.40.7:4739/PANDA/clCJ3I/725
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-name="M+ Liga de Campeones 13" tvg-logo="" group-title="PANDA",M+ Liga de Campeones 13
+http://57.129.40.7:4739/live/PANDA/clCJ3I/725
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 19" tvg-logo="" group-title="",Canal 19
-http://57.129.40.7:4739/PANDA/clCJ3I/81
+#EXTINF:-1 tvg-id="" tvg-name="Sin Señal" tvg-logo="" group-title="PANDA",Sin Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/81
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 19" tvg-logo="" group-title="",Canal 19
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/24
+#EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" group-title="PANDA",XTRM
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/24
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 19" tvg-logo="" group-title="",Canal 19
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" group-title="PANDA",Sundance TV
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/26
 
-#EXTINF:-1 tvg-id="AXN Movies" tvg-name="AXN Movies" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SET" group-title="",AXN Movies
+#EXTINF:-1 tvg-id="AXN Movies" tvg-name="AXN Movies" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SET" group-title="PANDA",AXN Movies
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5213
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2" tvg-logo="" group-title="",Canal 2
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/3
+#EXTINF:-1 tvg-id="" tvg-name="M+ Hits" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MHITS" group-title="PANDA",M+ Hits
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/3
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2" tvg-logo="" group-title="",Canal 2
+#EXTINF:-1 tvg-id="" tvg-name="Calle 13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CL13" group-title="PANDA",Calle 13
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/6
 
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/A3" group-title="",Antena 3
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/A3" group-title="PANDA",Antena 3
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5189
 
-#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA2" group-title="",LA 2
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA2" group-title="PANDA",LA 2
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5188
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 20" tvg-logo="" group-title="",Canal 20
-http://57.129.40.7:4739/PANDA/clCJ3I/82
+#EXTINF:-1 tvg-id="" tvg-name="Sin Señal" tvg-logo="" group-title="PANDA",Sin Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/82
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 20" tvg-logo="" group-title="",Canal 20
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/25
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TNT" group-title="PANDA",Warner TV
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/25
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 20" tvg-logo="" group-title="",Canal 20
+#EXTINF:-1 tvg-id="" tvg-name="Dark Rojo" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dark%20Rojo.png" group-title="PANDA",Dark Rojo
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/27
 
-#EXTINF:-1 tvg-id="BBC Series" tvg-name="BBC Series" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBDRA" group-title="",BBC Series
+#EXTINF:-1 tvg-id="BBC Series" tvg-name="BBC Series" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBDRA" group-title="PANDA",BBC Series
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5214
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 21" tvg-logo="" group-title="",Canal 21
-http://57.129.40.7:4739/PANDA/clCJ3I/146
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/146
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 21" tvg-logo="" group-title="",Canal 21
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/26
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" group-title="PANDA",Sundance TV
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/26
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 21" tvg-logo="" group-title="",Canal 21
+#EXTINF:-1 tvg-id="" tvg-name="Somos Cine" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos%20Cine.png" group-title="PANDA",Somos Cine
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/28
 
-#EXTINF:-1 tvg-id="BBC Top Gear" tvg-name="BBC Top Gear" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBGEA" group-title="",BBC Top Gear
+#EXTINF:-1 tvg-id="BBC Top Gear" tvg-name="BBC Top Gear" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBGEA" group-title="PANDA",BBC Top Gear
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5215
 
-#EXTINF:-1 tvg-id="M+ Baloncesto 4" tvg-name="M+ Baloncesto 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC4" group-title="",M+ Baloncesto 4
-http://57.129.40.7:4739/PANDA/clCJ3I/756
+#EXTINF:-1 tvg-id="M+ Baloncesto 4" tvg-name="M+ Baloncesto 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC4" group-title="PANDA",M+ Baloncesto 4
+http://57.129.40.7:4739/live/PANDA/clCJ3I/756
 
-#EXTINF:-1 tvg-id="M+ Baloncesto 5" tvg-name="M+ Baloncesto 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC5" group-title="",M+ Baloncesto 5
-http://57.129.40.7:4739/PANDA/clCJ3I/757
+#EXTINF:-1 tvg-id="M+ Baloncesto 5" tvg-name="M+ Baloncesto 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC5" group-title="PANDA",M+ Baloncesto 5
+http://57.129.40.7:4739/live/PANDA/clCJ3I/757
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M+ Liga de Campeones 6" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP5" group-title="",M+ Liga de Campeones 6
-http://57.129.40.7:4739/PANDA/clCJ3I/758
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M+ Liga de Campeones 6" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP5" group-title="PANDA",M+ Liga de Campeones 6
+http://57.129.40.7:4739/live/PANDA/clCJ3I/758
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 22" tvg-logo="" group-title="",Canal 22
-http://57.129.40.7:4739/PANDA/clCJ3I/147
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/147
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 22" tvg-logo="" group-title="",Canal 22
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/27
+#EXTINF:-1 tvg-id="" tvg-name="DARK" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" group-title="PANDA",DARK
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/27
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 22" tvg-logo="" group-title="",Canal 22
+#EXTINF:-1 tvg-id="" tvg-name="M+ Indie" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MINDI" group-title="PANDA",M+ Indie
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/29
 
-#EXTINF:-1 tvg-id="Squirrel" tvg-name="Squirrel" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SQUI" group-title="",Squirrel
+#EXTINF:-1 tvg-id="Squirrel" tvg-name="Squirrel" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SQUI" group-title="PANDA",Squirrel
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5216
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 23" tvg-logo="" group-title="",Canal 23
-http://57.129.40.7:4739/PANDA/clCJ3I/148
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/148
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 23" tvg-logo="" group-title="",Canal 23
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/28
+#EXTINF:-1 tvg-id="" tvg-name="Somos Cine" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos%20Cine.png" group-title="PANDA",Somos Cine
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/28
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 23" tvg-logo="" group-title="",Canal 23
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TCM" group-title="PANDA",TCM
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/30
 
-#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BEMAD" group-title="",BE MAD
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BEMAD" group-title="PANDA",BE MAD
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5217
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 24" tvg-logo="" group-title="",Canal 24
-http://57.129.40.7:4739/PANDA/clCJ3I/149
+#EXTINF:-1 tvg-id="" tvg-name="Canal 24" tvg-logo="" group-title="PANDA",Canal 24
+http://57.129.40.7:4739/live/PANDA/clCJ3I/149
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 24" tvg-logo="" group-title="",Canal 24
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/29
+#EXTINF:-1 tvg-id="" tvg-name="M+ Indie" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MINDI" group-title="PANDA",M+ Indie
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/29
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 24" tvg-logo="" group-title="",Canal 24
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BABY" group-title="PANDA",Baby TV
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/33
 
-#EXTINF:-1 tvg-id="STAR Channel" tvg-name="STAR Channel" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FOXGE" group-title="",STAR Channel
+#EXTINF:-1 tvg-id="STAR Channel" tvg-name="STAR Channel" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FOXGE" group-title="PANDA",STAR Channel
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5218
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 25" tvg-logo="" group-title="",Canal 25
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/30
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TCM" group-title="PANDA",TCM
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/30
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 25" tvg-logo="" group-title="",Canal 25
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/PLAYDC" group-title="PANDA",Disney Channel
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/34
 
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TNT" group-title="",Warner TV
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TNT" group-title="PANDA",Warner TV
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5220
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="" group-title="",Canal 26
-http://57.129.40.7:4739/PANDA/clCJ3I/151
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/151
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="" group-title="",Canal 26
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/43
+#EXTINF:-1 tvg-id="" tvg-name="M+ Documentales" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MDOC" group-title="PANDA",M+ Documentales
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/43
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="" group-title="",Canal 26
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NICKJR" group-title="PANDA",Nick JR
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/36
 
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/PCM" group-title="",Comedy Central
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/PCM" group-title="PANDA",Comedy Central
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5221
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 27" tvg-logo="" group-title="",Canal 27
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/44
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCR" group-title="PANDA",Discovery
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/44
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 27" tvg-logo="" group-title="",Canal 27
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/PLAYDC" group-title="PANDA",Disney Channel
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/37
 
-#EXTINF:-1 tvg-id="Calle 13" tvg-name="Calle 13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CL13" group-title="",Calle 13
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="Calle 13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CL13" group-title="PANDA",Calle 13
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5222
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 28" tvg-logo="" group-title="",Canal 28
-http://57.129.40.7:4739/PANDA/clCJ3I/153
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/153
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 28" tvg-logo="" group-title="",Canal 28
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/45
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGEO" group-title="PANDA",National Geographic
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/45
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 28" tvg-logo="" group-title="",Canal 28
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DWSP" group-title="PANDA",Dreamworks
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/38
 
-#EXTINF:-1 tvg-id="COSMO" tvg-name="COSMO" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/COSMO" group-title="",COSMO
+#EXTINF:-1 tvg-id="COSMO" tvg-name="COSMO" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/COSMO" group-title="PANDA",COSMO
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5223
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 29" tvg-logo="" group-title="",Canal 29
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/46
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGEO" group-title="PANDA",National Geographic
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/46
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 29" tvg-logo="" group-title="",Canal 29
+#EXTINF:-1 tvg-id="" tvg-name="M+ Documentales" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MDOC" group-title="PANDA",M+ Documentales
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/43
 
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="" group-title="",SYFY
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SciFi" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SCI-FI" group-title="PANDA",SciFi
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5224
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 3" tvg-logo="" group-title="",Canal 3
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/5
+#EXTINF:-1 tvg-id="" tvg-name="STAR Channel" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FOXGE" group-title="PANDA",STAR Channel
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/5
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 3" tvg-logo="" group-title="",Canal 3
+#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/COSMO" group-title="PANDA",COSMO
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/7
 
-#EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/C4" group-title="",Cuatro
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/C4" group-title="PANDA",Cuatro
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5190
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 30" tvg-logo="" group-title="",Canal 30
-http://57.129.40.7:4739/PANDA/clCJ3I/155
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/155
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 30" tvg-logo="" group-title="",Canal 30
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/47
+#EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="PANDA",Historia
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/47
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 30" tvg-logo="" group-title="",Canal 30
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCR" group-title="PANDA",Discovery
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/44
 
-#EXTINF:-1 tvg-id="Veo7" tvg-name="Veo7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VEO7" group-title="",Veo7
+#EXTINF:-1 tvg-id="Veo7" tvg-name="Veo7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VEO7" group-title="PANDA",Veo7
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5225
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 31" tvg-logo="" group-title="",Canal 31
-http://57.129.40.7:4739/PANDA/clCJ3I/158
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/158
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 31" tvg-logo="" group-title="",Canal 31
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/48
+#EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" group-title="PANDA",Odisea
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/48
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 31" tvg-logo="" group-title="",Canal 31
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGEO" group-title="PANDA",National Geographic
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/45
 
-#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/13TV" group-title="",TRECE
+#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/13TV" group-title="PANDA",TRECE
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5226
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 32" tvg-logo="" group-title="",Canal 32
-http://57.129.40.7:4739/PANDA/clCJ3I/159
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/159
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 32" tvg-logo="" group-title="",Canal 32
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/50
+#EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" group-title="PANDA",AMC Break
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/50
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 32" tvg-logo="" group-title="",Canal 32
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGW" group-title="PANDA",Nat Geo Wild
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/46
 
-#EXTINF:-1 tvg-id="Energy" tvg-name="Energy" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ENERGY" group-title="",Energy
+#EXTINF:-1 tvg-id="Energy" tvg-name="Energy" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ENERGY" group-title="PANDA",Energy
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5227
 
-#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="Factoría de Ficción" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FDFIC" group-title="",Factoría de Ficción
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="Factoría de Ficción" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FDFIC" group-title="PANDA",Factoría de Ficción
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5228
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 33" tvg-logo="" group-title="",Canal 33
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/51
+#EXTINF:-1 tvg-id="" tvg-name="AMC Crime" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" group-title="PANDA",AMC Crime
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/51
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 33" tvg-logo="" group-title="",Canal 33
+#EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="PANDA",Historia
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/47
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 33" tvg-logo="" group-title="",Canal 33
+#EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NEOX" group-title="PANDA",Neox
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5229
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 34" tvg-logo="" group-title="",Canal 34
-http://57.129.40.7:4739/PANDA/clCJ3I/162
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/162
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 34" tvg-logo="" group-title="",Canal 34
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/52
+#EXTINF:-1 tvg-id="" tvg-name="AMC Living" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Living.png" group-title="PANDA",AMC Living
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/52
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 34" tvg-logo="" group-title="",Canal 34
+#EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" group-title="PANDA",Odisea
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/48
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 35" tvg-logo="" group-title="",Canal 35
-http://57.129.40.7:4739/PANDA/clCJ3I/163
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/163
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 35" tvg-logo="" group-title="",Canal 35
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/53
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" group-title="PANDA",AMC
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/53
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 35" tvg-logo="" group-title="",Canal 35
+#EXTINF:-1 tvg-id="" tvg-name="AMC Western" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Western.png" group-title="PANDA",AMC Western
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/49
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 35" tvg-logo="" group-title="",Canal 35
+#EXTINF:-1 tvg-id="M+ Vamos 2" tvg-name="M+ Vamos 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VAM2SD" group-title="PANDA",M+ Vamos 2
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5231
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 36" tvg-logo="" group-title="",Canal 36
-http://57.129.40.7:4739/PANDA/clCJ3I/164
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/164
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 36" tvg-logo="" group-title="",Canal 36
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/55
+#EXTINF:-1 tvg-id="" tvg-name="Onetoro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="PANDA",Onetoro
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/55
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 36" tvg-logo="" group-title="",Canal 36
+#EXTINF:-1 tvg-id="" tvg-name="AMC Crime" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" group-title="PANDA",AMC Crime
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/50
 
-#EXTINF:-1 tvg-id="M+ Vamos 3" tvg-name="M+ Vamos 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MELLAV" group-title="",M+ Vamos 3
+#EXTINF:-1 tvg-id="M+ Vamos 3" tvg-name="M+ Vamos 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MELLAV" group-title="PANDA",M+ Vamos 3
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5232
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 37" tvg-logo="" group-title="",Canal 37
-http://57.129.40.7:4739/PANDA/clCJ3I/165
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/165
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 37" tvg-logo="" group-title="",Canal 37
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/56
+#EXTINF:-1 tvg-id="" tvg-name="Onetoro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="PANDA",Onetoro
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/56
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 37" tvg-logo="" group-title="",Canal 37
+#EXTINF:-1 tvg-id="" tvg-name="AMC Crime" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" group-title="PANDA",AMC Crime
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/51
 
-#EXTINF:-1 tvg-id="Primera Federación" tvg-name="Primera Federación" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MCOPA" group-title="",Primera Federación
+#EXTINF:-1 tvg-id="Primera Federación" tvg-name="Primera Federación" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MCOPA" group-title="PANDA",Primera Federación
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5233
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 38" tvg-logo="" group-title="",Canal 38
-http://57.129.40.7:4739/PANDA/clCJ3I/166
+#EXTINF:-1 tvg-id="" tvg-name="No Señal" tvg-logo="" group-title="PANDA",No Señal
+http://57.129.40.7:4739/live/PANDA/clCJ3I/166
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 38" tvg-logo="" group-title="",Canal 38
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/58
+#EXTINF:-1 tvg-id="" tvg-name="Torolé TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png" group-title="PANDA",Torolé TV
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/58
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 38" tvg-logo="" group-title="",Canal 38
+#EXTINF:-1 tvg-id="" tvg-name="AMC Living" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Living.png" group-title="PANDA",AMC Living
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/52
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 38" tvg-logo="" group-title="",Canal 38
+#EXTINF:-1 tvg-id="M+ LALIGA" tvg-name="M+ LALIGA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGA" group-title="PANDA",M+ LALIGA
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5234
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 39" tvg-logo="" group-title="",Canal 39
-http://57.129.40.7:4739/PANDA/clCJ3I/200
+#EXTINF:-1 tvg-id="" tvg-name=Real Madrid TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/REALM" group-title="PANDA",Real Madrid TV
+http://57.129.40.7:4739/live/PANDA/clCJ3I/200
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 39" tvg-logo="" group-title="",Canal 39
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/59
+#EXTINF:-1 tvg-id="" tvg-name="Iberalia TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/IBERAL" group-title="PANDA",Iberalia TV
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/59
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 39" tvg-logo="" group-title="",Canal 39
+#EXTINF:-1 tvg-id="" tvg-name="Canal Cocina" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" group-title="PANDA",Canal Cocina
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/53
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 39" tvg-logo="" group-title="",Canal 39
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LALIGA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZNLI" group-title="PANDA",DAZN LALIGA
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5235
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4" tvg-logo="" group-title="",Canal 4
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/6
+#EXTINF:-1 tvg-id="" tvg-name="Calle 13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CL13" group-title="PANDA",Calle 13
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/6
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4" tvg-logo="" group-title="",Canal 4
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" group-title="PANDA",AMC
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/8
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4" tvg-logo="" group-title="",Canal 4
+#EXTINF:-1 tvg-id="Movistar Plus" tvg-name="Movistar Plus" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS" group-title="PANDA",Movistar Plus
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5193
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 40" tvg-logo="" group-title="",Canal 40
-http://57.129.40.7:4739/PANDA/clCJ3I/482
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN Baloncesto" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZBA" group-title="PANDA",DAZN Baloncesto
+http://57.129.40.7:4739/live/PANDA/clCJ3I/482
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 40" tvg-logo="" group-title="",Canal 40
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/60
+#EXTINF:-1 tvg-id="DAZN Baloncesto 2" tvg-name="DAZN Baloncesto 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZB2" group-title="PANDA",DAZN Baloncesto 2
+http://57.129.40.7:4739/PANDA/clCJ3I/483
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 40" tvg-logo="" group-title="",Canal 40
+#EXTINF:-1 tvg-id="DAZN Baloncesto 3" tvg-name="DAZN Baloncesto 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZB3" group-title="PANDA",DAZN Baloncesto 3
+http://57.129.40.7:4739/PANDA/clCJ3I/484
+
+#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="Caza y Pesca" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CAZPES" group-title="PANDA",Caza y Pesca
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/60
+
+#EXTINF:-1 tvg-id="" tvg-name="Onetoro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" group-title="PANDA",Onetoro
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/55
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 40" tvg-logo="" group-title="",Canal 40
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS" group-title="PANDA",LALIGA TV HYPERMOTION
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5236
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 41" tvg-logo="" group-title="",Canal 41
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/61
+#EXTINF:-1 tvg-id="" tvg-name="Iberalia caza" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png" group-title="PANDA",Iberalia caza
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/61
 
-#EXTINF:-1 tvg-id="M+ LALIGA 2" tvg-name="M+ LALIGA 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG1" group-title="",M+ LALIGA 2
+#EXTINF:-1 tvg-id="M+ LALIGA 2" tvg-name="M+ LALIGA 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG1" group-title="PANDA",M+ LALIGA 2
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5237
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 42" tvg-logo="" group-title="",Canal 42
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/62
+#EXTINF:-1 tvg-id="" tvg-name="Cazavisión" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" group-title="PANDA",Cazavisión
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/62
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 42" tvg-logo="" group-title="",Canal 42
+#EXTINF:-1 tvg-id="" tvg-name="Iberalia TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/IBERAL" group-title="PANDA",Iberalia TV
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/59
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 42" tvg-logo="" group-title="",Canal 42
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DAZN LALIGA 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZNL2" group-title="PANDA",DAZN LALIGA 2
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5238
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 43" tvg-logo="" group-title="",Canal 43
-http://57.129.40.7:4739/PANDA/clCJ3I/485
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAPIO" group-title="PANDA",M+ Liga de Campeones
+http://57.129.40.7:4739/live/PANDA/clCJ3I/485
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 43" tvg-logo="" group-title="",Canal 43
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/63
+#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="Caza y Pesca" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CAZPES" group-title="PANDA",Caza y Pesca
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/63
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 43" tvg-logo="" group-title="",Canal 43
+#EXTINF:-1 tvg-id="" tvg-name="Iberalia pesca" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png" group-title="PANDA",Iberalia pesca
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/60
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 43" tvg-logo="" group-title="",Canal 43
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS2" group-title="PANDA",LALIGA TV HYPERMOTION 2
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5239
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 44" tvg-logo="" group-title="",Canal 44
-http://57.129.40.7:4739/PANDA/clCJ3I/486
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAPIO" group-title="PANDA",M+ Liga de Campeones
+http://57.129.40.7:4739/live/PANDA/clCJ3I/486
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 44" tvg-logo="" group-title="",Canal 44
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/65
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MVF1" group-title="PANDA",DAZN F1
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/65
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 44" tvg-logo="" group-title="",Canal 44
+#EXTINF:-1 tvg-id="" tvg-name="Iberalia caza" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png" group-title="PANDA",Iberalia caza
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/61
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 44" tvg-logo="" group-title="",Canal 44
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAPIO" group-title="PANDA",M+ Liga de Campeones
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5240
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 45" tvg-logo="" group-title="",Canal 45
-http://57.129.40.7:4739/PANDA/clCJ3I/487
+#EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e2bc4647-5158-44b1-a14e-6b541ed03997.png" group-title="PANDA",FIFA+
+http://57.129.40.7:4739/live/PANDA/clCJ3I/487
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 45" tvg-logo="" group-title="",Canal 45
+#EXTINF:-1 tvg-id="" tvg-name="Cazavisión" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" group-title="PANDA",Cazavisión
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/62
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP1" group-title="",M+ Liga de Campeones 2
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP1" group-title="PANDA",M+ Liga de Campeones 2
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5241
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 46" tvg-logo="" group-title="",Canal 46
-http://57.129.40.7:4739/PANDA/clCJ3I/494
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP2" group-title="PANDA",M+ Liga de Campeones 3
+http://57.129.40.7:4739/live/PANDA/clCJ3I/494
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 46" tvg-logo="" group-title="",Canal 46
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/69
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/M2SD" group-title="PANDA",DAZN 2
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/69
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 46" tvg-logo="" group-title="",Canal 46
+#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="Caza y Pesca" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CAZPES" group-title="PANDA",Caza y Pesca
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/63
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP2" group-title="",M+ Liga de Campeones 3
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP3" group-title="PANDA",M+ Liga de Campeones 4
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5242
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 47" tvg-logo="" group-title="",Canal 47
-http://57.129.40.7:4739/PANDA/clCJ3I/495
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP4" group-title="PANDA",M+ Liga de Campeones 5
+http://57.129.40.7:4739/live/PANDA/clCJ3I/495
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 47" tvg-logo="" group-title="",Canal 47
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/71
+#EXTINF:-1 tvg-id="" tvg-name="DE | Rally TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" group-title="PANDA",DE | Rally TV
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/71
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 47" tvg-logo="" group-title="",Canal 47
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MVF1" group-title="PANDA",DAZN F1
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/65
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 47" tvg-logo="" group-title="",Canal 47
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="M+ Deportes" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPDEP" group-title="PANDA",M+ Deportes
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5243
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 48" tvg-logo="" group-title="",Canal 48
-http://57.129.40.7:4739/PANDA/clCJ3I/496
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M+ Liga de Campeones 6" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP5" group-title="PANDA",M+ Liga de Campeones 6
+http://57.129.40.7:4739/live/PANDA/clCJ3I/496
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 48" tvg-logo="" group-title="",Canal 48
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/72
+#EXTINF:-1 tvg-id="" tvg-name="DE | Rally TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" group-title="PANDA",DE | Rally TV
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/72
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 48" tvg-logo="" group-title="",Canal 48
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/M1SD" group-title="PANDA",DAZN 1
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/67
 
-#EXTINF:-1 tvg-id="M+ Deportes 2" tvg-name="M+ Deportes 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARTHUR" group-title="",M+ Deportes 2
+#EXTINF:-1 tvg-id="M+ Deportes 2" tvg-name="M+ Deportes 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARTHUR" group-title="PANDA",M+ Deportes 2
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5244
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 49" tvg-logo="" group-title="",Canal 49
-http://57.129.40.7:4739/PANDA/clCJ3I/497
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP6" group-title="PANDA",M+ Liga de Campeones 7
+http://57.129.40.7:4739/live/PANDA/clCJ3I/497
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 49" tvg-logo="" group-title="",Canal 49
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/73
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZN3" group-title="PANDA",DAZN 3
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/73
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 49" tvg-logo="" group-title="",Canal 49
+#EXTINF:-1 tvg-id="" tvg-name="Primera RFEF" tvg-logo="https://cadenaser.com/resizer/v2/PZC7SALVDZB45D7LT3NXLDNGH4.png?auth=31d4887d8eff3a39cf43559493aed40b3ef205c41130a2043193a02c6b4e2d18&quality=70&width=768&height=432&smart=true" group-title="PANDA",Primera RFEF
+http://57.129.40.7:4739/PANDA/clCJ3I/1
+
+#EXTINF:-1 tvg-id="" tvg-name="Primera RFEF 2" tvg-logo="https://cadenaser.com/resizer/v2/PZC7SALVDZB45D7LT3NXLDNGH4.png?auth=31d4887d8eff3a39cf43559493aed40b3ef205c41130a2043193a02c6b4e2d18&quality=70&width=768&height=432&smart=true" group-title="PANDA",Primera RFEF 2
+http://57.129.40.7:4739/PANDA/clCJ3I/2
+
+#EXTINF:-1 tvg-id="" tvg-name="Primera RFEF 3" tvg-logo="https://cadenaser.com/resizer/v2/PZC7SALVDZB45D7LT3NXLDNGH4.png?auth=31d4887d8eff3a39cf43559493aed40b3ef205c41130a2043193a02c6b4e2d18&quality=70&width=768&height=432&smart=true" group-title="PANDA",Primera RFEF 3
+http://57.129.40.7:4739/PANDA/clCJ3I/3
+
+#EXTINF:-1 tvg-id="" tvg-name="Primera RFEF 4" tvg-logo="https://cadenaser.com/resizer/v2/PZC7SALVDZB45D7LT3NXLDNGH4.png?auth=31d4887d8eff3a39cf43559493aed40b3ef205c41130a2043193a02c6b4e2d18&quality=70&width=768&height=432&smart=true" group-title="PANDA",Primera RFEF 4
+http://57.129.40.7:4739/PANDA/clCJ3I/4
+
+#EXTINF:-1 tvg-id="" tvg-name="Primera RFEF 5" tvg-logo="https://cadenaser.com/resizer/v2/PZC7SALVDZB45D7LT3NXLDNGH4.png?auth=31d4887d8eff3a39cf43559493aed40b3ef205c41130a2043193a02c6b4e2d18&quality=70&width=768&height=432&smart=true" group-title="PANDA",Primera RFEF 5
+http://57.129.40.7:4739/PANDA/clCJ3I/5
+
+#EXTINF:-1 tvg-id="" tvg-name="Primera RFEF 6" tvg-logo="https://cadenaser.com/resizer/v2/PZC7SALVDZB45D7LT3NXLDNGH4.png?auth=31d4887d8eff3a39cf43559493aed40b3ef205c41130a2043193a02c6b4e2d18&quality=70&width=768&height=432&smart=true" group-title="PANDA",Primera RFEF 6
+http://57.129.40.7:4739/PANDA/clCJ3I/6
+
+#EXTINF:-1 tvg-id="" tvg-name="Primera RFEF 7" tvg-logo="https://cadenaser.com/resizer/v2/PZC7SALVDZB45D7LT3NXLDNGH4.png?auth=31d4887d8eff3a39cf43559493aed40b3ef205c41130a2043193a02c6b4e2d18&quality=70&width=768&height=432&smart=true" group-title="PANDA",Primera RFEF 7
+http://57.129.40.7:4739/PANDA/clCJ3I/7
+
+#EXTINF:-1 tvg-id="" tvg-name="Primera RFEF 8" tvg-logo="https://cadenaser.com/resizer/v2/PZC7SALVDZB45D7LT3NXLDNGH4.png?auth=31d4887d8eff3a39cf43559493aed40b3ef205c41130a2043193a02c6b4e2d18&quality=70&width=768&height=432&smart=true" group-title="PANDA",Primera RFEF 8
+http://57.129.40.7:4739/PANDA/clCJ3I/8
+
+#EXTINF:-1 tvg-id="" tvg-name="Primera RFEF 9" tvg-logo="https://cadenaser.com/resizer/v2/PZC7SALVDZB45D7LT3NXLDNGH4.png?auth=31d4887d8eff3a39cf43559493aed40b3ef205c41130a2043193a02c6b4e2d18&quality=70&width=768&height=432&smart=true" group-title="PANDA",Primera RFEF 9
+http://57.129.40.7:4739/PANDA/clCJ3I/9
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Serie A" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Serie A
+http://57.129.40.7:4739/PANDA/clCJ3I/525
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Serie A 2" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Serie A 2
+http://57.129.40.7:4739/PANDA/clCJ3I/526
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Serie A 3" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Serie A 3
+http://57.129.40.7:4739/PANDA/clCJ3I/527
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Serie A 4" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Serie A 4
+http://57.129.40.7:4739/PANDA/clCJ3I/528
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Serie A 5" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Serie A 5
+http://57.129.40.7:4739/PANDA/clCJ3I/529
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Serie A 6" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Serie A 6
+http://57.129.40.7:4739/PANDA/clCJ3I/530
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Serie A 7" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Serie A 7
+http://57.129.40.7:4739/PANDA/clCJ3I/531
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Serie A 8" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Serie A 8
+http://57.129.40.7:4739/PANDA/clCJ3I/532
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Serie A 9" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Serie A 9
+http://57.129.40.7:4739/PANDA/clCJ3I/533
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Serie A 10" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Serie A 9
+http://57.129.40.7:4739/PANDA/clCJ3I/534
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Bundesliga" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Bundesliga
+http://57.129.40.7:4739/PANDA/clCJ3I/535
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Bundesliga 2" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Bundesliga 2
+http://57.129.40.7:4739/PANDA/clCJ3I/536
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Bundesliga 3" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Bundesliga 3
+http://57.129.40.7:4739/PANDA/clCJ3I/537
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Bundesliga 4" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Bundesliga 4
+http://57.129.40.7:4739/PANDA/clCJ3I/538
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Bundesliga 5" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Bundesliga 5
+http://57.129.40.7:4739/PANDA/clCJ3I/539
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Premier League" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Premier League
+http://57.129.40.7:4739/PANDA/clCJ3I/540
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Premier League 2" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Premier League 2
+http://57.129.40.7:4739/PANDA/clCJ3I/541
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Premier League 3" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Premier League 3
+http://57.129.40.7:4739/PANDA/clCJ3I/542
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Premier League 4" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Premier League 4
+http://57.129.40.7:4739/PANDA/clCJ3I/543
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Premier League 5" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Premier League 5
+http://57.129.40.7:4739/PANDA/clCJ3I/544
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Premier League 6" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Premier League 6
+http://57.129.40.7:4739/PANDA/clCJ3I/545
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Premier League 7" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Premier League 7
+http://57.129.40.7:4739/PANDA/clCJ3I/546
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Premier League 8" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Premier League 8
+http://57.129.40.7:4739/PANDA/clCJ3I/547
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Premier League 9" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Premier League 9
+http://57.129.40.7:4739/PANDA/clCJ3I/548
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Premier League 10" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" group-title="PANDA",DAZN Premier League 10
+http://57.129.40.7:4739/PANDA/clCJ3I/549
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RFEF Futsal" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/dazn_web.png.webp?itok=Vsvnlfgl&cb=0c065bd1" group-title="PANDA",DAZN RFEF Futsal
+http://57.129.40.7:4739/PANDA/clCJ3I/550
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RFEF Futsal 2" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/dazn_web.png.webp?itok=Vsvnlfgl&cb=0c065bd1" group-title="PANDA",DAZN RFEF Futsal 2
+http://57.129.40.7:4739/PANDA/clCJ3I/551
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RFEF Futsal 3" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/dazn_web.png.webp?itok=Vsvnlfgl&cb=0c065bd1" group-title="PANDA",DAZN RFEF Futsal 3
+http://57.129.40.7:4739/PANDA/clCJ3I/552
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RFEF Futsal 4" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/dazn_web.png.webp?itok=Vsvnlfgl&cb=0c065bd1" group-title="PANDA",DAZN RFEF Futsal 4
+http://57.129.40.7:4739/PANDA/clCJ3I/553
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RFEF Futsal 5" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/dazn_web.png.webp?itok=Vsvnlfgl&cb=0c065bd1" group-title="PANDA",DAZN RFEF Futsal 5
+http://57.129.40.7:4739/PANDA/clCJ3I/554
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RFEF Futsal 6" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/dazn_web.png.webp?itok=Vsvnlfgl&cb=0c065bd1" group-title="PANDA",DAZN RFEF Futsal 6
+http://57.129.40.7:4739/PANDA/clCJ3I/555
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RFEF Futsal 7" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/dazn_web.png.webp?itok=Vsvnlfgl&cb=0c065bd1" group-title="PANDA",DAZN RFEF Futsal 7
+http://57.129.40.7:4739/PANDA/clCJ3I/556
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RFEF Futsal 8" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/dazn_web.png.webp?itok=Vsvnlfgl&cb=0c065bd1" group-title="PANDA",DAZN RFEF Futsal 8
+http://57.129.40.7:4739/PANDA/clCJ3I/557
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RFEF Futsal 9" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/dazn_web.png.webp?itok=Vsvnlfgl&cb=0c065bd1" group-title="PANDA",DAZN RFEF Futsal 9
+http://57.129.40.7:4739/PANDA/clCJ3I/558
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RFEF Futsal 10" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/dazn_web.png.webp?itok=Vsvnlfgl&cb=0c065bd1" group-title="PANDA",DAZN RFEF Futsal 10
+http://57.129.40.7:4739/PANDA/clCJ3I/559
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RFEF Futsal 11" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/dazn_web.png.webp?itok=Vsvnlfgl&cb=0c065bd1" group-title="PANDA",DAZN RFEF Futsal 11
+http://57.129.40.7:4739/PANDA/clCJ3I/560
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RFEF Futsal 12" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/dazn_web.png.webp?itok=Vsvnlfgl&cb=0c065bd1" group-title="PANDA",DAZN RFEF Futsal 12
+http://57.129.40.7:4739/PANDA/clCJ3I/561
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RFEF Futsal 13" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/dazn_web.png.webp?itok=Vsvnlfgl&cb=0c065bd1" group-title="PANDA",DAZN RFEF Futsal 13
+http://57.129.40.7:4739/PANDA/clCJ3I/562
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RFEF Futsal 14" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/dazn_web.png.webp?itok=Vsvnlfgl&cb=0c065bd1" group-title="PANDA",DAZN RFEF Futsal 14
+http://57.129.40.7:4739/PANDA/clCJ3I/563
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RFEF Futsal 15" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/dazn_web.png.webp?itok=Vsvnlfgl&cb=0c065bd1" group-title="PANDA",DAZN RFEF Futsal 15
+http://57.129.40.7:4739/PANDA/clCJ3I/564
+
+#EXTINF:-1 tvg-id="" tvg-name="Liga ACB" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",Liga ACB
+http://57.129.40.7:4739/PANDA/clCJ3I/572
+
+#EXTINF:-1 tvg-id="" tvg-name="Liga ACB 2" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",Liga ACB 2
+http://57.129.40.7:4739/PANDA/clCJ3I/572
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (DAZN)" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",NFL Network (DAZN)
+http://57.129.40.7:4739/PANDA/clCJ3I/726
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (DAZN)" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",NFL Network (DAZN)
+http://57.129.40.7:4739/PANDA/clCJ3I/727
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (DAZN)" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",NFL Network (DAZN)
+http://57.129.40.7:4739/PANDA/clCJ3I/728
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (DAZN)" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",NFL Network (DAZN)
+http://57.129.40.7:4739/PANDA/clCJ3I/729
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (DAZN)" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",NFL Network (DAZN)
+http://57.129.40.7:4739/PANDA/clCJ3I/730
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (DAZN)" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",NFL Network (DAZN)
+http://57.129.40.7:4739/PANDA/clCJ3I/731
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (DAZN)" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",NFL Network (DAZN)
+http://57.129.40.7:4739/PANDA/clCJ3I/732
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (DAZN)" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",NFL Network (DAZN)
+http://57.129.40.7:4739/PANDA/clCJ3I/733
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (DAZN)" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",NFL Network (DAZN)
+http://57.129.40.7:4739/PANDA/clCJ3I/734
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (DAZN)" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",NFL Network (DAZN)
+http://57.129.40.7:4739/PANDA/clCJ3I/735
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (DAZN)" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",NFL Network (DAZN)
+http://57.129.40.7:4739/PANDA/clCJ3I/736
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (DAZN)" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",NFL Network (DAZN)
+http://57.129.40.7:4739/PANDA/clCJ3I/737
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (DAZN)" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",NFL Network (DAZN)
+http://57.129.40.7:4739/PANDA/clCJ3I/738
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (DAZN)" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",NFL Network (DAZN)
+http://57.129.40.7:4739/PANDA/clCJ3I/739
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (DAZN)" tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_portada.jpg" group-title="PANDA",NFL Network (DAZN)
+http://57.129.40.7:4739/PANDA/clCJ3I/740
+
+#EXTINF:-1 tvg-id="" tvg-name="MBL" tvg-logo="https://mainecampus.com/wp-content/uploads/2025/09/MLB-Tilia-Baratta.png" group-title="PANDA",MBL
+http://57.129.40.7:4739/PANDA/clCJ3I/741
+
+#EXTINF:-1 tvg-id="" tvg-name="MBL" tvg-logo="https://mainecampus.com/wp-content/uploads/2025/09/MLB-Tilia-Baratta.png" group-title="PANDA",MBL
+http://57.129.40.7:4739/PANDA/clCJ3I/742
+
+#EXTINF:-1 tvg-id="" tvg-name="MBL" tvg-logo="https://mainecampus.com/wp-content/uploads/2025/09/MLB-Tilia-Baratta.png" group-title="PANDA",MBL
+http://57.129.40.7:4739/PANDA/clCJ3I/743
+
+#EXTINF:-1 tvg-id="" tvg-name="MBL" tvg-logo="https://mainecampus.com/wp-content/uploads/2025/09/MLB-Tilia-Baratta.png" group-title="PANDA",MBL
+http://57.129.40.7:4739/PANDA/clCJ3I/744
+
+#EXTINF:-1 tvg-id="" tvg-name="MBL" tvg-logo="https://mainecampus.com/wp-content/uploads/2025/09/MLB-Tilia-Baratta.png" group-title="PANDA",MBL
+http://57.129.40.7:4739/PANDA/clCJ3I/745
+
+#EXTINF:-1 tvg-id="" tvg-name="MBL" tvg-logo="https://mainecampus.com/wp-content/uploads/2025/09/MLB-Tilia-Baratta.png" group-title="PANDA",MBL
+http://57.129.40.7:4739/PANDA/clCJ3I/746
+
+#EXTINF:-1 tvg-id="" tvg-name="MBL" tvg-logo="https://mainecampus.com/wp-content/uploads/2025/09/MLB-Tilia-Baratta.png" group-title="PANDA",MBL
+http://57.129.40.7:4739/PANDA/clCJ3I/747
+
+#EXTINF:-1 tvg-id="" tvg-name="MBL" tvg-logo="https://mainecampus.com/wp-content/uploads/2025/09/MLB-Tilia-Baratta.png" group-title="PANDA",MBL
+http://57.129.40.7:4739/PANDA/clCJ3I/748
+
+#EXTINF:-1 tvg-id="" tvg-name="MBL" tvg-logo="https://mainecampus.com/wp-content/uploads/2025/09/MLB-Tilia-Baratta.png" group-title="PANDA",MBL
+http://57.129.40.7:4739/PANDA/clCJ3I/749
+
+#EXTINF:-1 tvg-id="" tvg-name="MBL" tvg-logo="https://mainecampus.com/wp-content/uploads/2025/09/MLB-Tilia-Baratta.png" group-title="PANDA",MBL
+http://57.129.40.7:4739/PANDA/clCJ3I/750
+
+#EXTINF:-1 tvg-id="" tvg-name="MBL" tvg-logo="https://mainecampus.com/wp-content/uploads/2025/09/MLB-Tilia-Baratta.png" group-title="PANDA",MBL
+http://57.129.40.7:4739/PANDA/clCJ3I/751
+
+#EXTINF:-1 tvg-id="" tvg-name="MBL" tvg-logo="https://mainecampus.com/wp-content/uploads/2025/09/MLB-Tilia-Baratta.png" group-title="PANDA",MBL
+http://57.129.40.7:4739/PANDA/clCJ3I/752
+
+#EXTINF:-1 tvg-id="" tvg-name="MBL" tvg-logo="https://mainecampus.com/wp-content/uploads/2025/09/MLB-Tilia-Baratta.png" group-title="PANDA",MBL
+http://57.129.40.7:4739/PANDA/clCJ3I/753
+
+#EXTINF:-1 tvg-id="" tvg-name="MBL" tvg-logo="https://mainecampus.com/wp-content/uploads/2025/09/MLB-Tilia-Baratta.png" group-title="PANDA",MBL
+http://57.129.40.7:4739/PANDA/clCJ3I/754
+
+#EXTINF:-1 tvg-id="" tvg-name="MBL" tvg-logo="https://mainecampus.com/wp-content/uploads/2025/09/MLB-Tilia-Baratta.png" group-title="PANDA",MBL
+http://57.129.40.7:4739/PANDA/clCJ3I/755
+
+#EXTINF:-1 tvg-id="" tvg-name="Error" tvg-logo="" group-title="PANDA",Error
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/69
 
-#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP2" group-title="",M+ Deportes 3
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP2" group-title="PANDA",M+ Deportes 3
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5245
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="" group-title="",Canal 5
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/7
+#EXTINF:-1 tvg-id="COSMO" tvg-name="COSMO" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/COSMO" group-title="PANDA",COSMO
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/7
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="" group-title="",Canal 5
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/AXN" group-title="PANDA",AXN
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/9
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="" group-title="",Canal 5
+#EXTINF:-1 tvg-id="M+ Vamos" tvg-name="M+ Vamos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VAMOSD" group-title="PANDA",M+ Vamos
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5194
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 50" tvg-logo="" group-title="",Canal 50
-http://57.129.40.7:4739/PANDA/clCJ3I/498
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP6" group-title="PANDA",M+ Liga de Campeones 7
+http://57.129.40.7:4739/live/PANDA/clCJ3I/498
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 50" tvg-logo="" group-title="",Canal 50
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/74
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZN4" group-title="PANDA",DAZN 4
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/74
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 50" tvg-logo="" group-title="",Canal 50
+#EXTINF:-1 tvg-id="" tvg-name="DE | Rally TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" group-title="PANDA",DE | Rally TV
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/71
 
-#EXTINF:-1 tvg-id="M+ Baloncesto" tvg-name="M+ Baloncesto" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALCT" group-title="",M+ Baloncesto
+#EXTINF:-1 tvg-id="M+ Baloncesto" tvg-name="M+ Baloncesto" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALCT" group-title="PANDA",M+ Baloncesto
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5246
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 51" tvg-logo="" group-title="",Canal 51
-http://57.129.40.7:4739/PANDA/clCJ3I/499
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP6" group-title="PANDA",M+ Liga de Campeones 7
+http://57.129.40.7:4739/live/PANDA/clCJ3I/499
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 51" tvg-logo="" group-title="",Canal 51
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZN3" group-title="PANDA",DAZN 3
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/73
 
-#EXTINF:-1 tvg-id="M+ Baloncesto 2" tvg-name="M+ Baloncesto 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC2" group-title="",M+ Baloncesto 2
+#EXTINF:-1 tvg-id="M+ Baloncesto 2" tvg-name="M+ Baloncesto 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC2" group-title="PANDA",M+ Baloncesto 2
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5247
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 52" tvg-logo="" group-title="",Canal 52
-http://57.129.40.7:4739/PANDA/clCJ3I/500
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP6" group-title="PANDA",M+ Liga de Campeones 7
+http://57.129.40.7:4739/live/PANDA/clCJ3I/500
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 52" tvg-logo="" group-title="",Canal 52
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/78
+#EXTINF:-1 tvg-id="" tvg-name=""DAZN LaLiga 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZNL2" group-title="PANDA","DAZN LaLiga 2
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/78
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 52" tvg-logo="" group-title="",Canal 52
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZN4" group-title="PANDA",DAZN 4
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/74
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 52" tvg-logo="" group-title="",Canal 52
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MVF1" group-title="PANDA",DAZN F1
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5250
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 53" tvg-logo="" group-title="",Canal 53
-http://57.129.40.7:4739/PANDA/clCJ3I/501
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP6" group-title="PANDA",M+ Liga de Campeones 7
+http://57.129.40.7:4739/live/PANDA/clCJ3I/501
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 53" tvg-logo="" group-title="",Canal 53
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/79
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGA" group-title="PANDA",M+ LALIGA
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/79
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 53" tvg-logo="" group-title="",Canal 53
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZNLI" group-title="PANDA",DAZN LALIGA
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/78
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 53" tvg-logo="" group-title="",Canal 53
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZMOT" group-title="PANDA",DAZN MotoGP
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5251
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 54" tvg-logo="" group-title="",Canal 54
-http://57.129.40.7:4739/PANDA/clCJ3I/502
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP6" group-title="PANDA",M+ Liga de Campeones 7
+http://57.129.40.7:4739/live/PANDA/clCJ3I/502
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 54" tvg-logo="" group-title="",Canal 54
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/M1SD" group-title="PANDA",DAZN 1
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5252
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 55" tvg-logo="" group-title="",Canal 55
-http://57.129.40.7:4739/PANDA/clCJ3I/503
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP6" group-title="PANDA",M+ Liga de Campeones 7
+http://57.129.40.7:4739/live/PANDA/clCJ3I/503
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 55" tvg-logo="" group-title="",Canal 55
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/M2SD" group-title="PANDA",DAZN 2
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5253
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 56" tvg-logo="" group-title="",Canal 56
-http://57.129.40.7:4739/PANDA/clCJ3I/504
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP6" group-title="PANDA",M+ Liga de Campeones 7
+http://57.129.40.7:4739/live/PANDA/clCJ3I/504
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 56" tvg-logo="" group-title="",Canal 56
+#EXTINF:-1 tvg-id="M+ LALIGA 3" tvg-name="M+ LALIGA 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG3" group-title="PANDA",M+ LALIGA 4
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/82
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 56" tvg-logo="" group-title="",Canal 56
+#EXTINF:-1 tvg-id="DAZN Baloncesto 2" tvg-name="DAZN Baloncesto 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZB2" group-title="PANDA",DAZN Baloncesto 2
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5255
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 57" tvg-logo="" group-title="",Canal 57
+#EXTINF:-1 tvg-id="" tvg-name=""DAZN LaLiga 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZNL2" group-title="PANDA",DAZN LaLiga 2
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/83
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 57" tvg-logo="" group-title="",Canal 57
+#EXTINF:-1 tvg-id="DAZN Baloncesto 3" tvg-name="DAZN Baloncesto 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZB3" group-title="PANDA",DAZN Baloncesto 3
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5256
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 58" tvg-logo="" group-title="",Canal 58
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAPIO" group-title="PANDA",M+ Liga de Campeones
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/93
 
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP" group-title="",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP" group-title="PANDA",Eurosport 1
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5257
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 58" tvg-logo="" group-title="",Canal 58
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP2" group-title="PANDA",Eurosport 2
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5258
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 59" tvg-logo="" group-title="",Canal 59
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/85
+#EXTINF:-1 tvg-id="M+ LALIGA 5" tvg-name="M+ LALIGA 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG4" group-title="PANDA",M+ LALIGA 5
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/85
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 59" tvg-logo="" group-title="",Canal 59
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAPIO" group-title="PANDA",M+ Liga de Campeones
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/94
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 59" tvg-logo="" group-title="",Canal 59
+#EXTINF:-1 tvg-id="GOL" tvg-name="GOL" tvg-logo="" group-title="PANDA",GOL
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5259
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6" tvg-logo="" group-title="",Canal 6
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" group-title="PANDA",AMC
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/8
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6" tvg-logo="" group-title="",Canal 6
+#EXTINF:-1 tvg-id="" tvg-name="AXN Movies" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" group-title="PANDA",AXN Movies
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/10
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6" tvg-logo="" group-title="",Canal 6
+#EXTINF:-1 tvg-id="M+ Estrenos" tvg-name="M+ Estrenos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MV1" group-title="PANDA",M+ Estrenos
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5196
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 60" tvg-logo="" group-title="",Canal 60
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP6" group-title="PANDA",M+ Liga de Campeones 7
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/95
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 60" tvg-logo="" group-title="",Canal 60
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TDEP" group-title="PANDA",Teledeporte
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5260
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 60" tvg-logo="" group-title="",Canal 60
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/REALM" group-title="PANDA",Real Madrid TV
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5261
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 61" tvg-logo="" group-title="",Canal 61
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/93
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAPIO" group-title="PANDA",M+ Liga de Campeones
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/93
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 61" tvg-logo="" group-title="",Canal 61
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP6" group-title="PANDA",M+ Liga de Campeones 7
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/96
 
-#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="Caza y Pesca" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CAZPES" group-title="",Caza y Pesca
+#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="Caza y Pesca" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CAZPES" group-title="PANDA",Caza y Pesca
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5262
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 62" tvg-logo="" group-title="",Canal 62
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP6" group-title="PANDA",M+ Liga de Campeones 7
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/97
 
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGEO" group-title="",National Geographic
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGEO" group-title="PANDA",National Geographic
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5263
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 63" tvg-logo="" group-title="",Canal 63
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/95
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP6" group-title="PANDA",M+ Liga de Campeones 7
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/95
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 63" tvg-logo="" group-title="",Canal 63
+#EXTINF:-1 tvg-id="M+ Vamos" tvg-name="M+ Vamos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VAMOSD" group-title="PANDA",M+ Vamos
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/102
 
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGW" group-title="",Nat Geo Wild
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGW" group-title="PANDA",Nat Geo Wild
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5264
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 64" tvg-logo="" group-title="",Canal 64
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP" group-title="PANDA",Eurosport 1
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/103
 
-#EXTINF:-1 tvg-id="BBC History" tvg-name="BBC History" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBHIS" group-title="",BBC History
+#EXTINF:-1 tvg-id="BBC History" tvg-name="BBC History" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBHIS" group-title="PANDA",BBC History
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5265
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 65" tvg-logo="" group-title="",Canal 65
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP2" group-title="PANDA",Eurosport 2
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/104
 
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCR" group-title="",Discovery
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCR" group-title="PANDA",Discovery
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5266
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 66" tvg-logo="" group-title="",Canal 66
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBCEAR" group-title="PANDA",BBC Earth
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5267
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 67" tvg-logo="" group-title="",Canal 67
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/100
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP6" group-title="PANDA",M+ Liga de Campeones 7
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/100
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 67" tvg-logo="" group-title="",Canal 67
+#EXTINF:-1 tvg-id="" tvg-name="M+ Golf" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/GOLF%2B" group-title="PANDA",M+ Golf
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/107
 
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCRMAX" group-title="",DMAX
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCRMAX" group-title="PANDA",DMAX
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5268
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 68" tvg-logo="" group-title="",Canal 68
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/101
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/M1SD" group-title="PANDA",DAZN 1
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/101
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 68" tvg-logo="" group-title="",Canal 68
+#EXTINF:-1 tvg-id="" tvg-name="M+ Golf 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/GOLF2" group-title="PANDA",M+ Golf 2
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/108
 
-#EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC Food" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBFOO" group-title="",BBC Food
+#EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC Food" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBFOO" group-title="PANDA",BBC Food
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5269
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 69" tvg-logo="" group-title="",Canal 69
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/102
+#EXTINF:-1 tvg-id="M+ Vamos" tvg-name="M+ Vamos" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VAMOSD" group-title="PANDA",M+ Vamos
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/102
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 69" tvg-logo="" group-title="",Canal 69
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="M+ Deportes" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPDEP" group-title="PANDA",M+ Deportes
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/109
 
-#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBCLIF" group-title="",BBC Lifestyle
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBCLIF" group-title="PANDA",BBC Lifestyle
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5270
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 7" tvg-logo="" group-title="",Canal 7
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/9
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/AXN" group-title="PANDA",AXN
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/9
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 7" tvg-logo="" group-title="",Canal 7
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/PCM" group-title="PANDA",Comedy Central
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/11
 
-#EXTINF:-1 tvg-id="M+ Hits" tvg-name="M+ Hits" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MHITS" group-title="",M+ Hits
+#EXTINF:-1 tvg-id="M+ Hits" tvg-name="M+ Hits" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MHITS" group-title="PANDA",M+ Hits
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5197
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP" group-title="PANDA",Eurosport 1
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/103
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 70" tvg-logo="" group-title="",Canal 70
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/103
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal 70" tvg-logo="" group-title="",Canal 70
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ Deportes 6" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MULTI8" group-title="PANDA",M+ Deportes 6
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/110
 
-#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DKISS" group-title="",DKISS
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DKISS" group-title="PANDA",DKISS
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5271
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 71" tvg-logo="" group-title="",Canal 71
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/104
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP2" group-title="PANDA",Eurosport 2
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/104
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 71" tvg-logo="" group-title="",Canal 71
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS2" group-title="PANDA",LaLiga TV Hypermotion 2
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/117
 
-#EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DIVINI" group-title="",Divinity
+#EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DIVINI" group-title="PANDA",Divinity
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5272
 
-#EXTINF:-1 tvg-id="Mega" tvg-name="Mega" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MEGA" group-title="",Mega
+#EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MEGA" group-title="PANDA",Mega
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5274
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 72" tvg-logo="" group-title="",Canal 72
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/105
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="PANDA",Tennis Channel
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/105
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 72" tvg-logo="" group-title="",Canal 72
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS2" group-title="PANDA",LaLiga TV Hypermotion 2
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/118
 
-#EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NOVA" group-title="",Nova
+#EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NOVA" group-title="PANDA",Nova
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5273
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 73" tvg-logo="" group-title="",Canal 73
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS3" group-title="PANDA",LaLiga TV Hypermotion 3
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/119
 
-#EXTINF:-1 tvg-id="Ten" tvg-name="Ten" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TEN" group-title="",Ten
+#EXTINF:-1 tvg-id="Ten" tvg-name="Ten" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TEN" group-title="PANDA",Ten
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5275
 
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BABY" group-title="",Baby TV
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BABY" group-title="PANDA",Baby TV
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5276
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 74" tvg-logo="" group-title="",Canal 74
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/107
+#EXTINF:-1 tvg-id="" tvg-name="M+ Golf 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/GOLF2" group-title="PANDA",M+ Golf 2
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/107
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 74" tvg-logo="" group-title="",Canal 74
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS" group-title="PANDA",LaLiga TV Hypermotion
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/126
 
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/PLAYDC" group-title="",Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/PLAYDC" group-title="PANDA",Disney Channel
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5277
 
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NICKJR" group-title="",NICK JR
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NICKJR" group-title="PANDA",NICK JR
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5278
 
-#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BOING" group-title="",Boing
+#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BOING" group-title="PANDA",Boing
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5281
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 76" tvg-logo="" group-title="",Canal 76
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/109
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="M+ Deportes" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPDEP" group-title="PANDA",M+ Deportes
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/109
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 76" tvg-logo="" group-title="",Canal 76
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NICK" group-title="PANDA",Nickelodeon
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5279
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 77" tvg-logo="" group-title="",Canal 77
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/110
+#EXTINF:-1 tvg-id="" tvg-name="Canal 77" tvg-logo="" group-title="PANDA",Canal 77
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/110
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 77" tvg-logo="" group-title="",Canal 77
+#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BOING" group-title="PANDA",Boing
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/285
 
-#EXTINF:-1 tvg-id="Clan TVE" tvg-name="Clan TVE" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CLANTV" group-title="",Clan TVE
+#EXTINF:-1 tvg-id="Clan TVE" tvg-name="Clan" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CLANTV" group-title="PANDA",Clan
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5282
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 78" tvg-logo="" group-title="",Canal 78
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/111
+#EXTINF:-1 tvg-id="" tvg-name="MTV España" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Espa%C3%B1a.png" group-title="PANDA",MTV España
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/111
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 78" tvg-logo="" group-title="",Canal 78
+#EXTINF:-1 tvg-id="" tvg-name="Clan" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CLANTV" group-title="PANDA",Clan
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/286
 
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MTV" group-title="",MTV
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MTV" group-title="PANDA",MTV
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5283
 
-#EXTINF:-1 tvg-id="Mezzo" tvg-name="Mezzo" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MEZZO" group-title="",Mezzo
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MEZZO" group-title="PANDA",Mezzo
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5284
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 79" tvg-logo="" group-title="",Canal 79
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/112
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP3" group-title="PANDA",M+ Deportes 4
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/112
 
-#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/24H" group-title="",24 Horas
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/24H" group-title="PANDA",24 Horas
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5287
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 8" tvg-logo="" group-title="",Canal 8
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/11
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/PCM" group-title="PANDA",Comedy Central
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/11
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 8" tvg-logo="" group-title="",Canal 8
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SciFi" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SCI-FI" group-title="PANDA",SciFi
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/13
 
-#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ Originales" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MORIG" group-title="",M+ Originales
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ Originales" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MORIG" group-title="PANDA",M+ Originales
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5198
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 80" tvg-logo="" group-title="",Canal 80
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/113
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP11" group-title="PANDA",M+ Deportes 5
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/113
 
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBC" group-title="",BBC News
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBC" group-title="PANDA",BBC News
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5288
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 81" tvg-logo="" group-title="",Canal 81
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/114
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ Deportes 6" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MULTI8" group-title="PANDA",M+ Deportes 6
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/114
 
-#EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV5MONDE" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TV5" group-title="",TV5MONDE
+#EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV5MONDE" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TV5" group-title="PANDA",TV5MONDE
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5295
 
-#EXTINF:-1 tvg-id="1+1 Internacional" tvg-name="1+1 Internacional" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/INTEUA" group-title="",1+1 Internacional
+#EXTINF:-1 tvg-id="1+1 Internacional" tvg-name="1+1 Internacional" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/INTEUA" group-title="PANDA",1+1 Internacional
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5293
 
-#EXTINF:-1 tvg-id="Telemadrid Int." tvg-name="Telemadrid Int." tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TELMIN" group-title="",Telemadrid Int.
+#EXTINF:-1 tvg-id="Telemadrid Int." tvg-name="Telemadrid Int." tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TELMIN" group-title="PANDA",Telemadrid Int.
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5306
 
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NBC" group-title="",CNBC
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NBC" group-title="PANDA",CNBC
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5294
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 83" tvg-logo="" group-title="",Canal 83
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/118
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS" group-title="PANDA",LaLiga TV Hypermotion
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/118
 
-#EXTINF:-1 tvg-id="M+ LALIGA 3" tvg-name="M+ LALIGA 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG2" group-title="",M+ LALIGA 3
+#EXTINF:-1 tvg-id="M+ LALIGA 3" tvg-name="M+ LALIGA 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG2" group-title="PANDA",M+ LALIGA 3
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5309
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 84" tvg-logo="" group-title="",Canal 84
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/119
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-name="LALIGA TV HYPERMOTION 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS3" group-title="PANDA",LALIGA TV HYPERMOTION 3
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/119
 
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-name="LALIGA TV HYPERMOTION 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS3" group-title="",LALIGA TV HYPERMOTION 3
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-name="LALIGA TV HYPERMOTION 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS3" group-title="PANDA",LALIGA TV HYPERMOTION 3
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5310
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 85" tvg-logo="" group-title="",Canal 85
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/120
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-name="LALIGA TV HYPERMOTION 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS3" group-title="PANDA",LALIGA TV HYPERMOTION 3
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/120
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP3" group-title="",M+ Liga de Campeones 4
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP3" group-title="PANDA",M+ Liga de Campeones 4
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5311
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP4" group-title="",M+ Liga de Campeones 5
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP4" group-title="PANDA",M+ Liga de Campeones 5
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5312
 
-#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP3" group-title="",M+ Deportes 4
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP3" group-title="PANDA",M+ Deportes 4
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5313
 
-#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP11" group-title="",M+ Deportes 5
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP11" group-title="PANDA",M+ Deportes 5
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5314
 
-#EXTINF:-1 tvg-id="M+ Baloncesto 3" tvg-name="M+ Baloncesto 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC3" group-title="",M+ Baloncesto 3
+#EXTINF:-1 tvg-id="M+ Baloncesto 3" tvg-name="M+ Baloncesto 3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC3" group-title="PANDA",M+ Baloncesto 3
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5316
 
-#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ Deportes 6" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MULTI8" group-title="",M+ Deportes 6
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ Deportes 6" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MULTI8" group-title="PANDA",M+ Deportes 6
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5315
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9" tvg-logo="" group-title="",Canal 9
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/13
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SciFi" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SCI-FI" group-title="PANDA",SciFi
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/13
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9" tvg-logo="" group-title="",Canal 9
+#EXTINF:-1 tvg-id="" tvg-name="M+ Cine Español" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCESP" group-title="PANDA",M+ Cine Español
 http://57.129.153.53:4839/PANDATV1TV2/aY0R5q/15
 
-#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-name="M+ Vacaciones" tvg-logo="" group-title="",M+ Vacaciones
+#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-name="M+ Vacaciones" tvg-logo="" group-title="PANDA",M+ Vacaciones
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5199
 
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZN4" group-title="",DAZN 4
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZN4" group-title="PANDA",DAZN 4
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5320
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 91" tvg-logo="" group-title="",Canal 91
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/144
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sur Andalucía" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CANSUR" group-title="PANDA",Canal Sur Andalucía
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/144
 
-#EXTINF:-1 tvg-id="M+ LALIGA 4" tvg-name="M+ LALIGA 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG3" group-title="",M+ LALIGA 4
+#EXTINF:-1 tvg-id="M+ LALIGA 4" tvg-name="M+ LALIGA 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG3" group-title="PANDA",M+ LALIGA 4
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5324
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 92" tvg-logo="" group-title="",Canal 92
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/145
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sur" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CANSUR" group-title="PANDA",Canal Sur
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/145
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M+ Liga de Campeones 6" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP5" group-title="",M+ Liga de Campeones 6
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M+ Liga de Campeones 6" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP5" group-title="PANDA",M+ Liga de Campeones 6
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5325
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 93" tvg-logo="" group-title="",Canal 93
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/147
+#EXTINF:-1 tvg-id="" tvg-name="CMM TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/CASMAN" group-title="PANDA",CMM TV
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/147
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-name="M+ Liga de Campeones 12" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP11" group-title="",M+ Liga de Campeones 12
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-name="M+ Liga de Campeones 12" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP11" group-title="PANDA",M+ Liga de Campeones 12
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5331
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M+ Liga de Campeones 8" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP7" group-title="",M+ Liga de Campeones 8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M+ Liga de Campeones 8" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP7" group-title="PANDA",M+ Liga de Campeones 8
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5327
 
-#EXTINF:-1 tvg-id="M+ Baloncesto 4" tvg-name="M+ Baloncesto 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC4" group-title="",M+ Baloncesto 4
+#EXTINF:-1 tvg-id="M+ Baloncesto 4" tvg-name="M+ Baloncesto 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MBALC4" group-title="PANDA",M+ Baloncesto 4
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5333
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="M+ Liga de Campeones 9" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP8" group-title="",M+ Liga de Campeones 9
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="M+ Liga de Campeones 9" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP8" group-title="PANDA",M+ Liga de Campeones 9
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5328
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 95" tvg-logo="" group-title="",Canal 95
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/228
+#EXTINF:-1 tvg-id="Telemadrid Int." tvg-name="Telemadrid" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TELMAD" group-title="PANDA",Telemadrid
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/228
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-name="M+ Liga de Campeones 10" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP9" group-title="",M+ Liga de Campeones 10
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP4" group-title="PANDA",M+ Liga de Campeones 5
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5329
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 96" tvg-logo="" group-title="",Canal 96
-http://57.129.40.7:4739/PANDA/clCJ3I/568
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZMOT" group-title="PANDA",DAZN MotoGP
+http://57.129.40.7:4739/live/PANDA/clCJ3I/568
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-name="M+ Liga de Campeones 11" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP10" group-title="",M+ Liga de Campeones 11
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-name="M+ Liga de Campeones 11" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP10" group-title="PANDA",M+ Liga de Campeones 11
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5330
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 97" tvg-logo="" group-title="",Canal 97
-http://57.129.40.7:4739/PANDA/clCJ3I/570
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS" group-title="PANDA",LALIGA TV HYPERMOTION
+http://57.129.40.7:4739/live/PANDA/clCJ3I/570
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 97" tvg-logo="" group-title="",Canal 97
-http://51.255.39.160:1893/PANDA/7ZlhVM3jJD/248
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/AXN" group-title="PANDA",AXN
+http://51.255.39.160:1893/live/PANDA/7ZlhVM3jJD/248
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-name="M+ Liga de Campeones 13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP12" group-title="",M+ Liga de Campeones 13
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-name="M+ Liga de Campeones 13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP12" group-title="PANDA",M+ Liga de Campeones 13
 http://146.59.239.9:3000/scirpt2movpan/cysZot/5332
 
